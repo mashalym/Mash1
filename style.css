@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    color: #ffffff;
+    text-align: center;
+}
+
+header {
+    background-color: #222;
+    padding: 20px 0;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.hero {
+    background: #ff5722;
+    padding: 80px 20px;
+}
+
+.cta-button {
+    background-color: #fff;
+    color: #ff5722;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+section {
+    padding: 50px 20px;
+}
+
+form input, form textarea, form button {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+footer {
+    background-color: #222;
+    padding: 20px;
+    margin-top: 20px;
+}
